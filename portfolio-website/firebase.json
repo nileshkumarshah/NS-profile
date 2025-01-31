@@ -1,7 +1,7 @@
 {
     "hosting": [
         {
-            "site": "new-portfolio",
+            "site": "newprotofilo",
             "public": "dist",
             "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
             "rewrites": [
